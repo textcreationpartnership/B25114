@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation calling a Parliament to be holden at Edinburgh the ninth day of April, 1685</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25114</idno><idno type="EEBO-CITATION">16963977</idno>
+  <idno type="VID">200464</idno>
+  <idno type="EEBO-PROQUEST">2248529040</idno>
+  
+            <idno type="STC">Wing J315</idno>
+            <idno type="OCLC">16963977</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1095:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation calling a Parliament to be holden at Edinburgh the ninth day of April, 1685</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at White-hall the 16th of February, 1684/5, and of our reign the first year. By His Majesties command, Morray."</note>
+                  <note>"Edinburgh, the 20 of February, 1685. Ordered by His Majesties Privy Council, that His Majesties said proclamation be forthwith published at the Mercat Cross of Edinburgh, and all other places needful, with all the usual and accustomed solemnities. And printed. Will. Paterson, clericus secreti concilij."</note>
+                  <note>Reproduction of original in the National Library of Scotland (Advocates').</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Parliament.</term>
+               <term type="geographic_name">Scotland --  History --  1660-1688.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:200464:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of James II</figDesc>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By the King.</head>
+            <head>
+               <hi>A PROCLAMATION <hi>Calling a Parliament to be Holden at</hi> Edinburgh <hi>the Ninth day of</hi> April,</hi> 1685.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">J</seg>AMES</hi> the Seventh by the Grace of GOD, King of <hi>Scot<g ref="char:EOLhyphen"/>land, England, France,</hi> and <hi>Ireland,</hi> Defender of the Faith <hi>&amp;c.</hi> To all and sundry Our good Subjects whom these Pre<g ref="char:EOLhyphen"/>sents do or may concern, Greeting. Whereas by the de<g ref="char:EOLhyphen"/>cease of Our most dear and most entirely beloved Brother King <hi>Charles</hi> the Second of ever blessed Memory, the Par<g ref="char:EOLhyphen"/>liament of Our Ancient Kingdom of <hi>Scotland,</hi> which was current before that time, is now actually Dissolved. And seing upon divers weighty Considerations, of great Im<g ref="char:EOLhyphen"/>portance to Our Service, and to the Peace and Tranquil<g ref="char:EOLhyphen"/>lity of that Our Ancient Kingdom, We have thought fit to call a Parliament to meet at Our City of <hi>Edinburgh</hi> upon the Ninth day of <hi>April</hi> next ensuing the date of these Presents. We do therefore Require and Command all Arch-Bishops, Dukes, Marquisses, Earls, Viscounts, Bishops, Lords, and Officers of State of Our said Ancient Kingdom to be present, and attend that Dyet. And We do al<g ref="char:EOLhyphen"/>so Require and Command all Our Sheriffs in the several Shires, and their Deputs furthwith to call and conveen all the Freeholders in the respective Shires, to the end that according to the Laws and Acts of Parliament, Elections may be made of fit Persons to be Commissioners for this Parliament. And We do likewise Require and Command Our Royal Burrows to make choice of Commissioners accordingly; and them and all Persons having Interest, to attend this Our Parliament, under the Pains contained in Our Laws made thereanent. And to the effect all Our good Subjects may have notice of this Our Royal Will and Pleasure, We do hereby Com<g ref="char:EOLhyphen"/>mand Our Lyon King at Arms, and his Brethren Heraulds, Macers, Purse<g ref="char:EOLhyphen"/>vants, and Messengers at Arms, to make timeous Proclamation of these <seg>P</seg>resents at the Mercat-Cross of <hi>Edinburgh,</hi> and at the Mercat-Crosses of the Head-Burrows of the several Shires of that Our Kingdom.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>White-hall</hi>
+                  </hi>
+                  <date>
+                     <hi>the Sixteenth of <hi>February</hi>
+                     </hi> 1684/5, <hi>And of Our Reign the first Year.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>By His <hi>Majesties</hi> Command, <hi>MORRAY.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <head>
+               <hi>EDINBURGH,</hi> the 20 of <hi>February,</hi> 1685.</head>
+            <p>ORdered by His Majesties Privy Council, that His Majesties said Proclamation be forthwith Published at the Mercat Cross of <hi>Edinburgh,</hi> and all other Places needful, with all the usual and accustomed Solemnities. And Printed.</p>
+            <closer>
+               <signed>WILL. PATERSON, <hi>Clericus Secreti Concilij.</hi>
+               </signed>
+            </closer>
+            <closer>GOD save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> Printer to His most Sacred <hi>Majesty,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
